@@ -1,0 +1,13 @@
+[04/02/2016 07.20.06am] Debug: [parse_live_server_info] Connecting to (149.202.65.171:36532)
+[04/02/2016 07.20.06am] Debug: [parse_live_server_info] Connected to (149.202.65.171:36532)
+[04/02/2016 07.20.07am] Debug: [parse_live_server_info] Fetching data
+[04/02/2016 07.20.07am] Debug: [parse_live_server_info] Parsing data
+[04/02/2016 07.20.07am] Debug: [parse_live_server_info] Complete; Disconnected
+[04/02/2016 07.20.07am] Debug: [parse_userstats] Loaded "userstats.dat", ready for parsing
+[04/02/2016 07.20.07am] Debug: [parse_userstats] Parsing "userstats.dat"
+[04/02/2016 07.20.07am] Debug: [parse_userstats] Parse complete
+[04/02/2016 07.20.07am] Debug: [parse_htmlstats] Loaded "serverstats.html", ready for parsing
+[04/02/2016 07.20.07am] Debug: [parse_htmlstats] Parsing "serverstats.html"
+[04/02/2016 07.20.07am] Debug: [parse_htmlstats] Parsing server statistics
+[04/02/2016 07.20.07am] Debug: [parse_htmlstats] Parsing Graph Data
+[04/02/2016 07.20.07am] Debug: [parse_htmlstats] Parse complete
