@@ -1,4 +1,4 @@
-*Stats:Extract 3.0*
+# Stats:Extract 3.0 #
 Developed by Nighthawk (http://www.unrealsoftware.de/profile.php?userid=116310)
 
 
